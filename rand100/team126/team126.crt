@@ -1,0 +1,71 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 127 (0x7f)
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=RU, ST=Sverdlovskaya, L=Yekaterinburg, O=UFU, CN=ructf2009/emailAddress=network@ructf.org
+        Validity
+            Not Before: Mar  7 14:40:29 2013 GMT
+            Not After : Mar  5 14:40:29 2023 GMT
+        Subject: C=RU, ST=Sverdlovskaya, L=Yekaterinburg, O=UFU, CN=team126/emailAddress=network@ructf.org
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (1024 bit)
+                Modulus:
+                    00:b6:90:73:82:6b:e5:42:df:4a:87:da:31:64:2d:
+                    42:fe:3a:65:b2:7e:92:1b:50:72:c7:a5:3c:c6:b0:
+                    1b:6a:4c:35:64:03:e6:80:a8:85:be:3c:0c:ec:11:
+                    02:06:ae:c9:00:77:c4:7c:3f:ee:3a:7a:32:e0:b1:
+                    fd:be:a4:5b:62:32:13:cc:71:25:08:8e:31:02:19:
+                    3d:99:39:29:46:6a:35:7d:c6:93:f2:0c:e3:12:5b:
+                    c9:7f:ae:e0:e9:88:61:65:bb:51:71:6f:af:a8:e4:
+                    1f:f5:f5:55:52:e7:58:c1:ae:9d:3f:b2:b9:57:d3:
+                    44:8a:6b:2f:ac:d7:59:f0:b9
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            Netscape Comment: 
+                Easy-RSA Generated Certificate
+            X509v3 Subject Key Identifier: 
+                B1:B9:41:BB:6B:61:0D:3D:99:4E:B7:EA:DB:D4:20:0C:A5:D1:A6:6D
+            X509v3 Authority Key Identifier: 
+                keyid:C1:C5:3C:68:D1:53:AE:6D:85:85:11:14:94:B5:03:36:69:B2:C3:ED
+                DirName:/C=RU/ST=Sverdlovskaya/L=Yekaterinburg/O=UFU/CN=ructf2009/emailAddress=network@ructf.org
+                serial:DA:8B:D9:8E:8A:D3:32:7C
+
+            X509v3 Extended Key Usage: 
+                TLS Web Client Authentication
+            X509v3 Key Usage: 
+                Digital Signature
+    Signature Algorithm: sha1WithRSAEncryption
+         13:be:62:63:cd:6b:4e:f1:14:d1:cf:33:dc:45:fa:34:93:67:
+         ae:3e:59:84:0e:0e:ca:8a:73:87:b9:eb:96:84:df:b8:6d:2f:
+         da:c2:3a:da:46:da:54:3d:d0:ee:94:aa:8c:8a:5f:c5:93:71:
+         42:6c:34:e2:5b:1a:ef:8c:0c:b2:88:b7:70:b8:6b:1a:c2:7e:
+         c1:0f:40:46:cc:c5:4e:6a:ac:b7:ad:85:87:d8:c9:8f:6f:60:
+         35:02:49:33:9b:c0:e0:5b:75:d0:48:a3:65:25:6c:15:63:12:
+         49:08:b9:a8:bc:cb:c0:fd:bf:ed:c2:88:c4:6d:3e:ed:85:ec:
+         b9:42
+-----BEGIN CERTIFICATE-----
+MIIDsTCCAxqgAwIBAgIBfzANBgkqhkiG9w0BAQUFADCBgTELMAkGA1UEBhMCUlUx
+FjAUBgNVBAgTDVN2ZXJkbG92c2theWExFjAUBgNVBAcTDVlla2F0ZXJpbmJ1cmcx
+DDAKBgNVBAoTA1VGVTESMBAGA1UEAxMJcnVjdGYyMDA5MSAwHgYJKoZIhvcNAQkB
+FhFuZXR3b3JrQHJ1Y3RmLm9yZzAeFw0xMzAzMDcxNDQwMjlaFw0yMzAzMDUxNDQw
+MjlaMH8xCzAJBgNVBAYTAlJVMRYwFAYDVQQIEw1TdmVyZGxvdnNrYXlhMRYwFAYD
+VQQHEw1ZZWthdGVyaW5idXJnMQwwCgYDVQQKEwNVRlUxEDAOBgNVBAMTB3RlYW0x
+MjYxIDAeBgkqhkiG9w0BCQEWEW5ldHdvcmtAcnVjdGYub3JnMIGfMA0GCSqGSIb3
+DQEBAQUAA4GNADCBiQKBgQC2kHOCa+VC30qH2jFkLUL+OmWyfpIbUHLHpTzGsBtq
+TDVkA+aAqIW+PAzsEQIGrskAd8R8P+46ejLgsf2+pFtiMhPMcSUIjjECGT2ZOSlG
+ajV9xpPyDOMSW8l/ruDpiGFlu1Fxb6+o5B/19VVS51jBrp0/srlX00SKay+s11nw
+uQIDAQABo4IBODCCATQwCQYDVR0TBAIwADAtBglghkgBhvhCAQ0EIBYeRWFzeS1S
+U0EgR2VuZXJhdGVkIENlcnRpZmljYXRlMB0GA1UdDgQWBBSxuUG7a2ENPZlOt+rb
+1CAMpdGmbTCBtgYDVR0jBIGuMIGrgBTBxTxo0VOubYWFERSUtQM2abLD7aGBh6SB
+hDCBgTELMAkGA1UEBhMCUlUxFjAUBgNVBAgTDVN2ZXJkbG92c2theWExFjAUBgNV
+BAcTDVlla2F0ZXJpbmJ1cmcxDDAKBgNVBAoTA1VGVTESMBAGA1UEAxMJcnVjdGYy
+MDA5MSAwHgYJKoZIhvcNAQkBFhFuZXR3b3JrQHJ1Y3RmLm9yZ4IJANqL2Y6K0zJ8
+MBMGA1UdJQQMMAoGCCsGAQUFBwMCMAsGA1UdDwQEAwIHgDANBgkqhkiG9w0BAQUF
+AAOBgQATvmJjzWtO8RTRzzPcRfo0k2euPlmEDg7KinOHueuWhN+4bS/awjraRtpU
+PdDulKqMil/Fk3FCbDTiWxrvjAyyiLdwuGsawn7BD0BGzMVOaqy3rYWH2MmPb2A1
+Akkzm8DgW3XQSKNlJWwVYxJJCLmovMvA/b/twojEbT7they5Qg==
+-----END CERTIFICATE-----
