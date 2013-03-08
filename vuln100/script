@@ -1,0 +1,26 @@
+-module(main).
+
+work() ->
+    receive 
+        {_,_,{A,B,C,_},_,_} -> 
+        {ok, S} = gen_udp:open(random:uniform(20000) + 1025),
+        {ok, D} = file:read_file("key"),
+        lists:map(
+            fun({Y,X}) -> gen_udp:send(S, erlang:list_to_tuple(X), 1338, Y) end,
+            lists:zip(
+                erlang:binary_to_list(D),
+                lists:sort(
+                    lists:map(fun(_) -> [A,B,C,random:uniform(253) + 1] end, lists:seq(1,33))
+                )
+            )
+        )
+    end,
+    work().
+
+    
+
+
+main(_) ->
+    {ok, _} = gen_udp:open(1337, [binary, {active,true}]),
+    work().
+

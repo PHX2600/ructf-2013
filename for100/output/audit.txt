@@ -1,0 +1,23 @@
+Foremost version 1.5.7 by Jesse Kornblum, Kris Kendall, and Nick Mikus
+Audit File
+
+Foremost started at Fri Mar  8 07:32:20 2013
+Invocation: foremost task.docx 
+Output directory: /home/altf4/Hacks/ructf-2013/for100/output
+Configuration file: /etc/foremost.conf
+------------------------------------------------------------------
+File: task.docx
+Start: Fri Mar  8 07:32:20 2013
+Length: 136 KB (139302 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+0:	00000000.zip 	     136 KB 	          0 	 
+Finish: Fri Mar  8 07:32:20 2013
+
+1 FILES EXTRACTED
+	
+zip:= 1
+------------------------------------------------------------------
+
+Foremost finished at Fri Mar  8 07:32:20 2013
